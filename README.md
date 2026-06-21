@@ -1,5 +1,16 @@
 # 💫 About Me:
-I'm currently working as a software engineer
+
+💻 Software Engineer with experience in Java, Spring Boot, Go, DevOps, and cloud technologies.
+
+🔍 Passionate about software quality, test automation, API testing, and backend development.
+
+☁️ Experienced with AWS, Azure DevOps, CI/CD pipelines, Kubernetes, Docker, and microservices.
+
+🚀 Currently working on backend systems, data migration projects, API integrations, and automation frameworks.
+
+📚 Always learning and exploring new technologies to build reliable and scalable solutions.
+
+📫 Connect with me to collaborate on software engineering, AI, LLM, cloud-native projects.
 
 
 ## 🌐 Socials:
